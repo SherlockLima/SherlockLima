@@ -19,4 +19,7 @@ You can find me on the following platforms:
 - [Email](contato@jeanlima.tech)
 
 ## 📊 GitHub Statistics
-!GitHub Statistics of Sherlock
+1
+2
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SherlockLima&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SherlockLima&langs_count=5&theme=tokyonight)]()
