@@ -3,7 +3,7 @@
 I'm Jean Lima, AKA SherlockLima.
 
 ## 🚀 About Me
-I’m a Full Stack Web Developer and in my free time, I’m a climber.
+I’m a Full Stack Developer and in my free time, I’m a climber.
 
 ## 🛠️ Skills
 - Programming Languages: JavaScript and Python
