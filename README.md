@@ -6,10 +6,10 @@ I'm Jean Lima, AKA SherlockLima.
 I’m a Full Stack Developer and in my free time, I’m a climber.
 
 ## 🛠️ Skills
-- Programming Languages: JavaScript and Python
-- Frameworks/Libraries/RunTimes: React, Node.js, Express.js
+- Programming Languages: TypeScript, JavaScript and Python
+- Frameworks/Libraries/RunTimes: React, Node.js, Express.js, Jest
 - Tools: Postman, Git, GitHub
-- Databases: SQL and PostgreSQL
+- Databases: MySQL and PostgreSQL
 - Certifications: AWS Cloud Practitioner
 
 ## 📫 Contact Me
