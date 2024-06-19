@@ -19,7 +19,4 @@ You can find me on the following platforms:
 - [Email](contato@jeanlima.tech)
 
 ## 📊 GitHub Statistics
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SherlockLima&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SherlockLima&langs_count=5&theme=tokyonight)]()
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SherlockLima)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SherlockLima)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=radical)
