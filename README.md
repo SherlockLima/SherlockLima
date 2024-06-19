@@ -13,6 +13,7 @@ I’m a Full Stack Developer and in my free time, I’m a climber.
 
 ## 📊 Certifications:
  AWS Cloud Practitioner
+ 
 ![aws-certified-cloud-practitioner(1)](https://github.com/SherlockLima/SherlockLima/assets/121984647/c1c91661-e18c-45c9-a289-523f399831a0)
 
 
