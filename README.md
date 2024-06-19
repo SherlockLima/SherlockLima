@@ -13,7 +13,7 @@ I’m a Full Stack Developer and in my free time, I’m a climber.
 
 ## 📊 Certifications:
  AWS Cloud Practitioner
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="15674070-03ec-44c5-b087-206f2c168899" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+https://www.credly.com/badges/15674070-03ec-44c5-b087-206f2c168899/public_url
 
 ## 📫 Contact Me
 You can find me on the following platforms:
