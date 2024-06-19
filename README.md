@@ -10,7 +10,10 @@ I’m a Full Stack Developer and in my free time, I’m a climber.
 - Frameworks/Libraries/RunTimes: React, Node.js, Express.js, Jest
 - Tools: Postman, Git, GitHub
 - Databases: MySQL and PostgreSQL
-- Certifications: AWS Cloud Practitioner
+
+## 📊 Certifications:
+ AWS Cloud Practitioner
+ <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="15674070-03ec-44c5-b087-206f2c168899" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## 📫 Contact Me
 You can find me on the following platforms:
@@ -22,3 +25,7 @@ You can find me on the following platforms:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SherlockLima)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SherlockLima&show_icons=true&theme=tokyonight)
 
+
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="15674070-03ec-44c5-b087-206f2c168899" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
