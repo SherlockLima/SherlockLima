@@ -12,7 +12,7 @@ I’m a Full Stack Developer and in my free time, I’m a climber.
 - Databases: MySQL and PostgreSQL
 
 ## 📊 Certifications:
-![aws-certified-cloud-practitioner(1)](https://github.com/SherlockLima/SherlockLima/assets/121984647/c1c91661-e18c-45c9-a289-523f399831a0)
+![aws-certified-cloud-practitioner(1)]([https://github.com/SherlockLima/SherlockLima/assets/121984647/c1c91661-e18c-45c9-a289-523f399831a0](https://www.credly.com/badges/15674070-03ec-44c5-b087-206f2c168899/public_url))
 
 
 ## 📫 Contact Me
