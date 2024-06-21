@@ -1,4 +1,4 @@
-# Hey! 👋
+# Hey!
 
 I'm Jean Lima, AKA SherlockLima.
 
