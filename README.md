@@ -21,5 +21,8 @@ You can find me on the following platforms:
 - [LinkedIn](https://www.linkedin.com/in/cb-jean-lima/)
 
 ## 📊 GitHub Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SherlockLima)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SherlockLima&show_icons=true&theme=tokyonight)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SherlockLima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherlockLima&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
