@@ -30,8 +30,7 @@ I’m a Full Stack Developer and in my free time, I’m a climber.
 
 ## <div align="start">📫 Contact Me</div>
 <div style="display: inline-block" align="start"><br>
-You can find me on the following platforms:
-- [LinkedIn](https://www.linkedin.com/in/cb-jean-lima/)
+  <a href="https://www.linkedin.com/in/cb-jean-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 
