@@ -29,8 +29,8 @@ I’m a Full Stack Developer and in my free time, I’m a climber.
 [AWS Credential](https://www.credly.com/badges/15674070-03ec-44c5-b087-206f2c168899/public_url/)
 </div>
 <div style="display: inline-block" align="center"><br>
-<img src= "![aws-certified-cloud-practitioner](https://github.com/SherlockLima/SherlockLima/assets/121984647/82d1552e-2e1b-4d54-baed-cee84ec2507a)
-">
+<img>![aws-certified-cloud-practitioner](https://github.com/SherlockLima/SherlockLima/assets/121984647/339f5edb-4e91-488d-8706-218e0fc2d57e)
+
   <img/>
 </div>
 
