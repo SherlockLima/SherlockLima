@@ -5,10 +5,10 @@
 I’m a Full Stack Developer and in my free time, I’m amulti sportsman.
 
 ## <div align="start">  📊 GitHub Statistics</div>
-<div align="start" >
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SherlockLima&show_icons=true&amp;bg_color=30,111,904e95&amp;title_color=fff&amp;text_color=fff"
-  style="max-width: 100%"&include_all_commits=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherlockLima&layout=donut&langs_count=20&amp;bg_color=30,111,904e95&amp;title_color=fff&amp;text_color=fff"
+<div align="start">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SherlockLima&include_all_commits=true&show=prs_merged_percentage&icon_color=fff&show_icons=true&amp;bg_color=30,111,904e95&amp;title_color=fff&amp;text_color=fff"
+  style="max-width: 100%""/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherlockLima&icon_color=fff&layout=donut&langs_count=20&amp;bg_color=30,111,904e95&amp;title_color=fff&amp;text_color=fff"
   style="max-width: 100%""/>
 </div>
 
