@@ -2,12 +2,20 @@
  AKA SherlockLima.
 
 ## 🚀 About Me
-I’m a Full Stack Developer and in my free time, I’m a climber.
+I’m a Full Stack Developer and in my free time, I’m amulti sportsman.
 
 ## <div align="start">  📊 GitHub Statistics</div>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SherlockLima&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherlockLima&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="start" >
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SherlockLima&show_icons=true&amp;bg_color=30,111,904e95&amp;title_color=fff&amp;text_color=fff"
+  style="max-width: 100%"&include_all_commits=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherlockLima&layout=donut&langs_count=20&amp;bg_color=30,111,904e95&amp;title_color=fff&amp;text_color=fff"
+  style="max-width: 100%""/>
+</div>
+
+## <div align="start">  ⌛ Wakatime Statistics</div>
+<div align="start" >
+ 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sherlocklima&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ## <div align="start"> 🛠️ Skills</div>
@@ -31,5 +39,6 @@ I’m a Full Stack Developer and in my free time, I’m a climber.
 <div style="display: inline-block" align="start"><br>
   <a href="https://www.linkedin.com/in/cb-jean-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
 
 
