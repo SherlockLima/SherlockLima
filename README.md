@@ -9,7 +9,7 @@ I’m a Full Stack Developer, and in my free time, I’m a multi-sportsman.
   <img height="206em" src="https://github-readme-stats.vercel.app/api?username=SherlockLima&include_all_commits=true&show=prs_merged_percentage&icon_color=fff&show_icons=true&bg_color=30,111,904e95&title_color=fff&text_color=fff" style="max-width: 100%;"/>
   <img height="208em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherlockLima&icon_color=fff&layout=donut&langs_count=20&bg_color=30,111,904e95&title_color=fff&text_color=fff" style="max-width: 100%;"/>  
   <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sherlocklima&column=8&theme=onedark" style="max-width: 100%;"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sherlocklima&column=4&row=1&theme=onedark" style="max-width: 100%;"/>
 </div>
 
 </div>
