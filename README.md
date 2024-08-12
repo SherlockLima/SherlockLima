@@ -40,7 +40,7 @@ I’m a Full Stack Developer, and in my free time, I’m a multi-sportsman.
   <p>
     <b>Frameworks and Libraries</b><br><br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=express,react,jest,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=express,react,jest,bootstrap,fastapi" />
     </a>
   </p>
 </div>
