@@ -1,8 +1,8 @@
-# Hey! I'm Jean Lima 👋
+# Hey! I'm Jean Lima
 **AKA SherlockLima**
 
 ## 🚀 About Me
-I’m a Full Stack Developer, and in my free time, I’m a multi-sportsman.
+I'm a Full Stack Developer and also interested in Golang! 🐹 
 
 ## 📊 GitHub Statistics
 <div align="center">
