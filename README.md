@@ -6,11 +6,7 @@ I'm a Full Stack Developer and also interested in Golang! 🐹
 
 ## 📊 GitHub Statistics
 <div align="center">
-  <img height="206em" src="https://github-readme-stats.vercel.app/api?username=SherlockLima&include_all_commits=true&show=prs_merged_percentage&icon_color=fff&show_icons=true&bg_color=30,111,904e95&title_color=fff&text_color=fff" style="max-width: 100%;"/>
-  <img height="208em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherlockLima&icon_color=fff&layout=donut&langs_count=20&bg_color=30,111,904e95&title_color=fff&text_color=fff" style="max-width: 100%;"/>  
-  <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sherlocklima&column=4&row=1&theme=onedark" style="max-width: 100%;"/>
-</div>
 
 </div>
 
@@ -26,7 +22,7 @@ I'm a Full Stack Developer and also interested in Golang! 🐹
   <p>
     <b>Languages</b><br><br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=typescript,js,py,nodejs,bash,html,css,mysql,postgres" />
+      <img src="https://skillicons.dev/icons?i=typescript,js,nodejs,bash,html,css,mysql,postgres" />
     </a>
   </p>
   <br>
@@ -40,7 +36,7 @@ I'm a Full Stack Developer and also interested in Golang! 🐹
   <p>
     <b>Frameworks and Libraries</b><br><br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=express,react,jest,bootstrap,fastapi" />
+      <img src="https://skillicons.dev/icons?i=express,react,jest,bootstrap,tailwind,fastapi" />
     </a>
   </p>
 </div>
