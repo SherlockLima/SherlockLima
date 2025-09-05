@@ -2,7 +2,7 @@
 **AKA SherlockLima**
 
 ## 🚀 About Me
-I'm a Full Stack Developer and also interested in Golang! 🐹 
+I'm a Full Stack Developer and also interested in Node.Js! 
 
 ## 📊 GitHub Statistics
 <div align="center">
