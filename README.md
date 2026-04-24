@@ -4,7 +4,7 @@
 
 I'm a Full Stack Developer working mostly with **Node.js, React, and TypeScript**.
 
-I enjoy building features from end to end — from backend rules and APIs to frontend flows that people actually use.  
+I enjoy building features from end to end, from backend rules and APIs to frontend flows that people actually use.  
 What I care about most is writing code that solves real problems, stays maintainable, and makes sense for the product and the team.
 
 ---
