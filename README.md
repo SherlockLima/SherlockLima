@@ -1,110 +1,88 @@
-# Hey, I'm Jean Lima 👋
+<div align="center">
 
-### I build web products with a focus on clarity, reliability, and real-world use.
+# JEAN LIMA
+### SYSTEMS ENGINEER | FULL STACK | B2B SaaS
+`// ARCHITECTING_RESILIENT_INFRASTRUCTURE`
 
-I'm a Full Stack Developer working mostly with **Node.js, React, and TypeScript**.
+<br />
 
-I enjoy building features from end to end, from backend rules and APIs to frontend flows that people actually use.  
-What I care about most is writing code that solves real problems, stays maintainable, and makes sense for the product and the team.
-
----
-
-## About me
-
-I like being involved in the whole process of building software.
-
-Some days that means working on backend logic, integrations, and data flow.  
-Other days it means improving a frontend experience, refining a user flow, or making a feature easier to understand and maintain.
-
-I'm especially interested in products where good engineering and good user experience need to work together.
-
----
-
-## How I work
-
-A few things I care about when building software:
-
-- keeping things simple where possible
-- writing code that other people can read without suffering
-- balancing speed with maintainability
-- understanding the business side, not just the technical side
-- building things that are actually useful, not just “working”
-
----
-
-## What I use
-
-<div align="center"><br>
-
-### Main stack
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=typescript,js,nodejs,react,express,tailwind,mysql,postgres" />
-</a>
-
-<br><br>
-
-### Tools
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,prisma,vite,jest,yarn,postman,vscode" />
-</a>
+[![Portfolio](https://img.shields.io/badge/TERMINAL-jeanlima--nu.vercel.app-FFE81F?style=for-the-badge&logo=vercel&logoColor=black)](https://jeanlima-nu.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/INTELLIGENCE-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/cb-jean-lima)
 
 </div>
 
 ---
 
-## What you'll find here
+### ⚡ [ OPERATIONAL_HISTORY ]
 
-Most of my repositories are related to:
-
-- full stack web development
-- backend services and REST APIs
-- frontend applications with React
-- experiments, studies, and ideas I’m exploring
-- code I wrote while learning, improving, and building
-
-This GitHub is basically where I keep track of how I think, build, test, and evolve as a developer.
-
----
-
-## Current focus
-
-Right now, I’m focused on improving in:
-
-- backend architecture with Node.js and TypeScript
-- React applications with better structure and UX
-- testing and maintainability
-- building stronger end-to-end product thinking
-- growing into bigger engineering challenges
-
----
-
-## Portfolio
-
-- 🌐 Portfolio: [jeanlima-nu.vercel.app](https://jeanlima-nu.vercel.app/)
-- 💻 GitHub: [github.com/SherlockLima](https://github.com/SherlockLima)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>[ ASCENSION ]</h4>
+      <strong>Full-Stack Engineer @ Confidential B2B SaaS</strong><br />
+      <i>// Scale: 1,000+ Active Business Units</i>
+      <ul>
+        <li>Architecting scalable B2B dashboard ecosystems.</li>
+        <li>Optimizing request handling for massive datasets.</li>
+        <li>Engineering mission-critical API protocols.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>[ FOUNDATION ]</h4>
+      <strong>Military Command @ Brazilian Army</strong><br />
+      <i>// Status: Merit Commendation</i>
+      <ul>
+        <li>Led squads of 15-100 personnel in logistics.</li>
+        <li>Forged absolute discipline under high pressure.</li>
+        <li>Mission-critical decision making foundation.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Certification
+### 🛠️ [ WEAPON_SYSTEMS ]
 
 <div align="center">
-  <a href="https://www.credly.com/badges/15674070-03ec-44c5-b087-206f2c168899/public_url">
-    <strong>AWS Certified Cloud Practitioner</strong>
-  </a>
-  <br><br>
-  <img 
-    src="https://github.com/SherlockLima/SherlockLima/assets/121984647/2fd0e4d4-16f0-4599-92b9-059d1dc9a99c" 
-    alt="AWS Certified Cloud Practitioner"
-    width="140"
-  />
+
+| **FRONTEND_CORE** | **BACKEND_INFRA** | **DEPLOYMENT_PROTOCOLS** |
+|:---:|:---:|:---:|
+| React.js / TypeScript | Node.js / Express | Docker / AWS |
+| Tailwind CSS | TypeORM / SQL | GitHub Actions / Jest |
+
+<br />
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,mysql,postgres,docker,aws,githubactions,jest,git" />
+</a>
+
 </div>
 
 ---
 
-## Contact
+### 📋 [ CORE_VALUES ]
 
-<div align="center"><br>
-  <a href="https://www.linkedin.com/in/cb-jean-lima/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+> "I don't just solve problems; I engineer systems that prevent them."
+
+- **Strategic Leverage:** Applying technical alavancagem to solve complex business rules.
+- **Constant Ascent:** Driven by the grit required for continuous mastery (Climber/BJJ mindset).
+- **Mission Readiness:** Every deployment is a tactical decision backed by structural integrity.
+
+---
+
+<div align="center">
+
+### [ ESTABLISH_UPLINK ]
+
+[**ACCESS TERMINAL**](https://jeanlima-nu.vercel.app/) • [**LINKEDIN**](https://linkedin.com/in/cb-jean-lima) • [**EMAIL**](mailto:jeanlima.developer@gmail.com)
+
+<br />
+
+<a href="https://www.credly.com/badges/15674070-03ec-44c5-b087-206f2c168899/public_url">
+  <img src="https://github.com/SherlockLima/SherlockLima/assets/121984647/2fd0e4d4-16f0-4599-92b9-059d1dc9a99c" width="100" />
+</a>
+<br />
+<strong>AWS CERTIFIED INFRASTRUCTURE</strong>
+
 </div>
